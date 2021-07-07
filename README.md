@@ -1,11 +1,8 @@
-### Hi there 👋
-
-
-## Seja Bem-Vindo(a) ⚡! 
-## Abaixo, um resumo rápido desse github !
+## Bem vindo(a) ⚡! 
+## Segue um resuminho rápido do meu GitHub!
  <div>
   <a href="https://github.com/nanotecnologista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanotecnologista_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanotecnologista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanotecnologista&layout=compact&langs_count=16&theme=dracula"/>
 
   
