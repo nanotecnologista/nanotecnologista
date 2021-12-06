@@ -1,33 +1,71 @@
-## Bem vindo(a) ⚡! 
-## Segue um resuminho rápido do meu GitHub!
- <div>
-  <a href="https://github.com/nanotecnologista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nanotecnologista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanotecnologista&layout=compact&langs_count=16&theme=dracula"/>
+### Hi there 👋<h2> I'm Julia Ingrid</h2>
 
-  
-  ##
- 
-<div> 
+<img align='right' src="https://i.pinimg.com/originals/28/b1/a2/28b1a295f6ccd41df8f2a2286a44c3ca.gif" height="200" width="400">
 
-  <a href="https://instagram.com/julya_bella" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  <a href="https://www.linkedin.com/in/juliaingrid" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<h3> 👨🏻•💻 About Me </h3>
 
 
-<!--
-**nanotecnologista/nanotecnologista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 &nbsp; Studying Analysis and systems development.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C |
+
+- 🌐 &nbsp; HTML | CSS | JavaScript |
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Gmail API | 
+
+
+<br/><br/>
+
+[![Julia GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanotecnologista&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/nanotecnologista)
+
+<br/>
+
+<br/>
+
+<img src="https://media4.giphy.com/media/dBdDyy87eIEtWd6HTw/giphy.gif?cid=790b761113fada81333738de52b365942b1383a229739a69&rid=giphy.gif&ct=s" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanotecnologista&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="https://nanotecnologista.github.io/"><img alt="Website" src="https://img.shields.io/badge/juliaingrid.portfolio-blue?style=flat-square&logo=google-chrome"></a>
+
+<a href="https://www.linkedin.com/in/juliaingrid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Julia%20Ingrid-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/julya_bella/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-julya_bella-black?style=flat-square&logo=instagram"></a>
+
+<a href="mailto:julia.ingridsantos.7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-julia.ingridsantos.7@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+
+
+
+
+![Visitor count](https://gpvc.arturio.dev/nanotecnologista)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+<hr>
+
+
