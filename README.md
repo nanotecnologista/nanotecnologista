@@ -2,8 +2,7 @@
 
 <img align='right' src="https://i.pinimg.com/originals/28/b1/a2/28b1a295f6ccd41df8f2a2286a44c3ca.gif" height="200" width="400">
 
-<h3> 👨🏻•💻 About Me </h3>
-
+<h3> 👩💻 About Me </h3>
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -53,8 +52,10 @@
 
 <a href="https://www.linkedin.com/in/juliaingrid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Julia%20Ingrid-blue?style=flat-square&logo=linkedin"></a>
 
+<!--
 <a href="https://www.instagram.com/julya_bella/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-julya_bella-black?style=flat-square&logo=instagram"></a>
-
+-->
+  
 <a href="mailto:julia.ingridsantos.7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-julia.ingridsantos.7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
