@@ -15,9 +15,9 @@
 
 - 💻 &nbsp; Python | C |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript |
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Gmail API | 
+- 🔧 &nbsp; Git | Markdown | Selenium | Gmail API | Docker
 
 
 <br/><br/>
