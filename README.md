@@ -56,7 +56,7 @@
 <a href="https://www.instagram.com/julya_bella/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-julya_bella-black?style=flat-square&logo=instagram"></a>
 -->
   
-<a href="mailto:julia.ingridsantos.7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-julia.ingridsantos.7@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:juliaingrid.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juliaingrid.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
