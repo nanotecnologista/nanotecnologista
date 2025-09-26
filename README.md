@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Analysis and systems development.
+- 🎓 &nbsp; Analysis and systems development.
 
 
 
@@ -48,13 +48,11 @@
 
 <p align="center">
 
+<!--  
 <a href="https://nanotecnologista.github.io/"><img alt="Website" src="https://img.shields.io/badge/juliaingrid.portfolio-blue?style=flat-square&logo=google-chrome"></a>
+-->
 
 <a href="https://www.linkedin.com/in/juliaingrid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Julia%20Ingrid-blue?style=flat-square&logo=linkedin"></a>
-
-<!--
-<a href="https://www.instagram.com/julya_bella/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-julya_bella-black?style=flat-square&logo=instagram"></a>
--->
   
 <a href="mailto:juliaingrid.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juliaingrid.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
@@ -64,8 +62,9 @@
 
 
 
-![Visitor count](https://gpvc.arturio.dev/nanotecnologista)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Profile views](https://komarev.com/ghpvc/?username=nanotecnologista) 
 
+<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/90c4ca56-4346-484c-8b3e-0a6b8a6c8817" />
 
 <hr>
 
