@@ -54,7 +54,7 @@
 
 <a href="https://www.linkedin.com/in/juliaingrid/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Julia%20Ingrid-blue?style=flat-square&logo=linkedin"></a>
   
-<a href="mailto:juliaingrid.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juliaingrid.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:me.contrate.tech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juliaingrid.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
